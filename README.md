@@ -29,5 +29,3 @@ Created by [**Luiz**](https://github.com/LuizBueno1). Connect on [LinkedIn](http
 If you found this repository helpful, don't forget to star ⭐ it and share it with your peers!
 
 ---
-
-**Happy Coding! 👨‍💻**
